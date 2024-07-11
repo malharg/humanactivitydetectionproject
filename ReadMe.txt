@@ -8,7 +8,7 @@ To run this project just open the terminal in this folder or gitbash can also wo
 
 python code.py --model resnet-34_kinetics.onnx --classes Actions.txt --input "Your actual path (i have mentioned my paths in a text file)" --gpu 1 --output "output file name".mp4
 
-Note:do not include inverted commas it's just for exmplaining what to enter
+Note:do not include inverted commas it's just for explaining what to enter
 
 For accessing the webcam and determining what your action is type this in the terminal:
 
